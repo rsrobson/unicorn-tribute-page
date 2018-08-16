@@ -26,6 +26,7 @@ body {
     margin-left: auto;
 }
 img {
+    display: block;
     max-width: 53vw;
     max-height: 1020px;
     padding-top: 1vw;
